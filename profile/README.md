@@ -24,7 +24,7 @@
 
 **Venue:** JIS University -- Room 1109  
 **Judges:** To be declared
-**Anchors:** Kritikka & Abhigyan Mukherjee  
+**Anchors:** 
 
 **Requirements:** Bring laptops, power banks, extension cords, and hardware (if needed).
 
