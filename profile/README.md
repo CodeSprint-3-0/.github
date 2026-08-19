@@ -38,14 +38,12 @@
 3. **Respected Faculty:**  
    - Prof. Dr. Dharampal Singh
    - Dr. Dipankar Mishra
-4. **Faculty Coordinator:** Prof. Debmitra Ghosh  
-
----
+4. **Faculty Coordinator:** Prof. Debmitra Ghosh 
 
 ---
 ## Judging Criteria (80 Points Total)
 
-- **Presentation (1-10):** Clarity, organization, and professionalism of the pitch presentation
+- **Presentation (1-10):** Clarity, organization, and professionalism of the written project details.
 - **UI/UX Design (1-10):** Visual appeal, user-friendliness, and overall design quality
 - **Backend Implementation (1-10):** Functionality, architecture, and efficiency of server-side code
 - **ML/AI Integration (1-10):** Effective use of machine learning or AI components (if applicable)
@@ -57,26 +55,8 @@
 #### *Tech stack evaluation includes backend design, MLOps/DevOps pipelines, and VCS usage.*
 ---
 
-## Judging & Presentation Pipeline
-
-- The presentation should consist of 5-8 slides, following the suggested structure.
-    - **Slide 1**: Title Slide
-    ▪ Include the team name, project title, and team members' names.
-    - **Slide 2**: Problem Statement
-    ▪ Clearly define the problem and explain its significance.
-    - **Slide 3**: Proposed Solution
-    ▪ Briefly describe the solution and how it addresses the problem.
-    - **Slide 4**: Innovation
-    ▪ Highlight what makes the solution unique or innovative.
-    - **Slide 5**: Product Overview
-    ▪ Present key features and include visuals or a brief demo, if possible.
-    - **Slide 6**: Technology Used
-    ▪ List the technologies used and explain why they were chosen.
-    - **Slide 7-8**: Implementation Plan
-    ▪ Outline the steps for development and deployment, mentioning potential
-    challenges.
-
-#### *Be ready for a Q&A with judges after your pitch.*
+## PPT Template
+[Click here to Download](https://github.com/CodeSprint-3-0/.github/blob/main/profile/SIH2026-IDEA-Presentation-Format.pptx)
 
 ---
 
@@ -103,8 +83,8 @@
 - **Team Size:** Max 6 members, **at least 1 female member required**  
 - **Eligibility:** Open to **JIS University** students from all departments.  
 - **Original Work:** All work must be original. **Plagiarism = Disqualification**  
-- **Problem Statement:** Choose from the provided SIH PS.
-- **Submission:** Submit code via **GitHub** with code + documentation.
+- **Problem Statement:** Choose from the provided [Sheet](https://github.com/CodeSprint-3-0/.github/blob/main/profile/Problem_Statements.xlsx).
+- **Submission:** Submit code via **GitHub** repo and PPT.
 - **Registration Deadline:** As specified.  
 - **Development Time:** **30 hours** of hacking.  
 - **Resources:** Online resources allowed but no copy-paste solutions.  
