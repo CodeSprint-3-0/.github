@@ -7,7 +7,7 @@
 
 
 ### Problem Statement  -- **SIH 2025**
-#### `Problem Statement Excel Sheet` -- [Problem Statement Batch 1](https://github.com/Codesprint-3-0/.github/blob/main/problemStatement.xlsx) (download to view)
+#### `Problem Statement Excel Sheet` -- [Problem Statement Release](https://github.com/CodeSprint-3-0/.github/blob/main/profile/Problem_Statements.xlsx) (download to view)
 ---
 
 ## Themes
