@@ -1,13 +1,13 @@
 # Codesprint 2026 – Rubrics & Terms and Conditions
 
-### Registration  **20th – 24th September 2026**
-### Hackathon Days   **26th - 27th September 2025**
+### Registration  **20th – 25th September 2026**
+### Hackathon Days   **26th - 27th September 2026**
 ### Link to Register- [Register Now](https://vision.hack2skill.com/event/codesprint-3/registration)
 ### Min Team Members - 2 & Max Team Member = 6 (1 Female Teammate is a must)
-### Discord Invite for the Conversations - https://discord.gg/Vz4ye5Mvkx
+### WhatsApp Community - https://chat.whatsapp.com/JxJQ7nSb3NvChbstqhAjKr
 
 
-### Problem Statement  -- **SIH 2025**
+### Problem Statement  -- **SIH Internal Hackathon**
 #### `Problem Statement Excel Sheet` -- [Problem Statement Release](https://github.com/CodeSprint-3-0/.github/blob/main/profile/Problem_Statements.xlsx) (download to view)
 ---
 
@@ -25,7 +25,7 @@
 
 **Venue:** JIS University -- Room 1109  
 **Judges:** To be declared
-**Anchors:** 
+
 
 **Requirements:** Bring laptops, power banks, extension cords, and hardware (if needed).
 
@@ -34,20 +34,13 @@
 ## Guests
 
 1. **Chief Guest:** Pro Chancellor Sir  
-2. **Guest Dignitaries:** Vice Chancellor Sir, Dean Sir, HoD Sir.  
+2. **Guest Dignitaries:** Vice Chancellor Sir, HoD Sir.  
 3. **Respected Faculty:**  
-   - Dr. Bidisha Bhabani  
-   - Dr. Subarsha Banerjee  
-   - Dr. Kaushik Adhikary
-   - Dr. Tanaya Das
+   - Prof. Dr. Dharampal Singh
+   - Dr. Dipankar Mishra
 4. **Faculty Coordinator:** Prof. Debmitra Ghosh  
 
 ---
-
-
-# Getting Started with Teams in Codesprint25
-In the registration form, just pass on your GitHub username to us, we will handle allocatitng teams to all of you, no worries :)
-> As usual all the instructions will be given in the discord server about teams on github org, first let's pack up the registration phase.
 
 ---
 ## Judging Criteria (80 Points Total)
@@ -108,16 +101,14 @@ In the registration form, just pass on your GitHub username to us, we will handl
 ## Terms & Regulations
 
 - **Team Size:** Max 6 members, **at least 1 female member required**  
-- **Eligibility:** Open to **JIS University** students from all departments  
+- **Eligibility:** Open to **JIS University** students from all departments.  
 - **Original Work:** All work must be original. **Plagiarism = Disqualification**  
 - **Problem Statement:** Choose from the provided SIH PS.
 - **Submission:** Submit code via **GitHub** with code + documentation.
-- **Registration Deadline:** As specified  
-- **Development Time:** **23 hours** of hacking  
-- **Final Presentation:** Live demo required + Pithcing. 
-- **Resources:** Online resources allowed but no copy-paste solutions  
-- **Mentorship:** Guidance available, but mentors will not provide solutions  .
-- **Breaks & Refreshments:** Provided during the event check event schedule.
+- **Registration Deadline:** As specified.  
+- **Development Time:** **30 hours** of hacking.  
+- **Resources:** Online resources allowed but no copy-paste solutions.  
+- **Mentorship:** Guidance available, but mentors will not provide solutions.
 
 ---
 
@@ -134,13 +125,7 @@ Final rankings will be determined by the total score. In case of a tie, the judg
 
 - **Faculty Coordinator**: Prof. Debmitra Ghosh
 - **Organizer**: Souvik Das
-- **Co-Organizer**: 
-- **Graphic Designer**: 
-- **Technical Support**: 
-- **Desk and Check-in**: 
-- **Host**:  
-- **Food Volunteers**: 
-- **Photography**: 
+- **Co-Organizer**: Sourav singh
 
 ---
 
