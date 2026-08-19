@@ -37,7 +37,7 @@
 3. **Respected Faculty:**  
    - Dr. Bidisha Bhabani  
    - Dr. Subarsha Banerjee  
-   - Dr. Samir Dey  
+   - Dr. Kaushik Adhikary
    - Dr. Tanaya Das
 4. **Faculty Coordinator:** Prof. Debmitra Ghosh  
 
