@@ -111,27 +111,12 @@ Final rankings will be determined by the total score. In case of a tie, the judg
 
 ## Tentative Schedule  
 
-| Day 1 (Offline)   | Time                  | Activity                                     |
+| Day 1             | Time                  | Activity                                     |
 |-------------------|-----------------------|----------------------------------------------|
 | Day 1: 26th Sept  | 09:40AM               | Arrival at Venue                             |
-| Day 1: 26th Sept  | 09:40AM - 10:30AM     | Arrival Check-ins                            |
-| Day 1: 26th Sept  | 10:30AM - 11:00AM     | Felicitation & Inauguration                  |
-| Day 1: 26th Sept  | 11:00AM - 12:00PM     | Guest Speech                                 |
-| Day 1: 26th Sept  | 10:00AM - 5:00PM      | Hacktime (Idea Development & Coding)         |
-| Day 1: 26th Sept  | 1:00PM - 2:00PM       | Lunch Break                                  |
-| Day 1: 26th Sept  | 3:30PM - 4:30PM       | Mentor Mid-Evaluations (Idea & Solution)     |
-| Day 1: 26th Sept  | 04:30PM               | Snacks Distribution                          |
-| Day 1: 26th Sept  | 05:00PM               | Dispersal                                    |
-| Day 1: 26th Sept  | 5:00PM - 11:59PM      | Product Changes (Remote/Off-session allowed) |
-| Day 2 (Online)    | Time                  | Activity                                     |
-| Day 2: 27th Sept  | 00:00AM - 12:00PM     | Product Changes (Remote/Off-session allowed) |
-| Day 2: 27th Sept  | 12:00PM               | GitHub Teams Locked (Read-only)              |
-| Day 2: 27th Sept  | 10:00AM               | Arrival at Venue                             |
-| Day 2: 27th Sept  | 11:00AM - 12:00PM     | Speaker Sessions (1 slot)                    |
-| Day 2: 27th Sept  | 12:00PM - 1:00PM      | Judges Lunch                                 |
-| Day 2: 27th Sept  | 12:00PM - 1:00PM      | Lunch (Participants)                         |
-| Day 2: 27th Sept  | 1:00PM - 3:30PM       | Judgement Rounds                             |
-| Day 2: 27th Sept  | 3:30PM - 4:30PM       | Prize Distribution & Winner Announcements    |
-| Day 2: 27th Sept  | 5:00PM                | Dispersal                                    |
+| Day 1: 26th Sept  | 09:40AM - 10:30AM     | Arrival Check-ins  (Only Team Leader)        |
+| Day 1: 26th Sept  | 10:30AM - 12:00AM     | Brief Discussion About Hackathon             |  
+| Day 1: 26th Sept  | 12:00PM - 12:15PM     | Exit & Room Clearance                        |  
+
 ---
 
