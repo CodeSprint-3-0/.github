@@ -2,13 +2,13 @@
 
 ### Registration  **20th – 25th September 2026**
 ### Hackathon Days   **26th - 27th September 2026**
-### Link to Register- [Register Now](https://vision.hack2skill.com/event/codesprint-3/registration)
+### Link to Register- [Register Now](https://forms.gle/MqptNSmWNNH7LY5b6)
 ### Min Team Members - 2 & Max Team Member = 6 (1 Female Teammate is a must)
 ### WhatsApp Community - https://chat.whatsapp.com/JxJQ7nSb3NvChbstqhAjKr
 
 
 ### Problem Statement  -- **SIH Internal Hackathon**
-#### `Problem Statement Excel Sheet` -- [Problem Statement Release](https://github.com/CodeSprint-3-0/.github/blob/main/profile/Problem_Statements.xlsx) (download to view)
+#### `Problem Statement Excel Sheet` -- [Problem Statements](https://sih.gov.in/sih2026PS)
 ---
 
 ## Themes
@@ -23,8 +23,8 @@
    - Smart Education  
    - Open Innovation  
 
-**Venue:** JIS University -- Room 1109  
-**Judges:** To be declared
+**Venue:** TBD
+**Judges:** TBD
 
 
 **Requirements:** Bring laptops, power banks, extension cords, and hardware (if needed).
