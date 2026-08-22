@@ -8,7 +8,7 @@
 
 
 ### Problem Statement  -- **SIH Internal Hackathon**
-#### `Problem Statement Excel Sheet` -- [Problem Statements](https://sih.gov.in/sih2026PS)
+#### `Problem Statements` -- [Problem Statements](https://sih.gov.in/sih2026PS)
 ---
 
 ## Themes
