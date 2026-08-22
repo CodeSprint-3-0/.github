@@ -83,7 +83,7 @@
 - **Team Size:** Max 6 members, **at least 1 female member required**  
 - **Eligibility:** Open to **JIS University** students from all departments.  
 - **Original Work:** All work must be original. **Plagiarism = Disqualification**  
-- **Problem Statement:** Choose from the provided [Sheet](https://github.com/CodeSprint-3-0/.github/blob/main/profile/Problem_Statements.xlsx).
+- **Problem Statement:** Choose from the provided [Click here to view](https://sih.gov.in/sih2026PS).
 - **Submission:** Submit code via **GitHub** repo and PPT.
 - **Registration Deadline:** As specified.  
 - **Development Time:** **30 hours** of hacking.  
