@@ -100,12 +100,12 @@
 
 Final rankings will be determined by the total score. In case of a tie, the judges will make the final decision based on the following priority criteria:
 
-1. *Priority - 1. Innovation/Presentation (1-10):* The uniqueness and creativity of the solution
-2. *Priority - 2. Problem-Solution Fit (1-10):* How effectively the solution addresses the stated problem
-3. *Priority - 3 . Code Quality (1-10):* Structure, documentation, and cleanliness of code
-4. *Priority - 4. Backend Implementation (1-10):* Quality and efficiency of the server-side architecture
-5. *Priority - 5. UI-UX (1-10):* Quality of pitch and demonstration
-6. *Priority - 6. ML/AI Integration (1-10):* Effective implementation of machine learning or AI components
+1. **Priority - 1.** Innovation/Presentation (1-10):* The uniqueness and creativity of the solution
+2. **Priority - 2.** Problem-Solution Fit (1-10):* How effectively the solution addresses the stated problem
+3. **Priority - 3.** Code Quality (1-10):* Structure, documentation, and cleanliness of code
+4. **Priority - 4.** Backend Implementation (1-10):* Quality and efficiency of the server-side architecture
+5. **Priority - 5.** UI-UX (1-10):* Quality of pitch and demonstration
+6. **Priority - 6.** ML/AI Integration (1-10):* Effective implementation of machine learning or AI components
 
 ## Event Leads
 
