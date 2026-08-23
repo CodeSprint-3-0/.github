@@ -11,17 +11,26 @@
 #### `Problem Statements` -- [Problem Statements](https://sih.gov.in/sih2026PS)
 ---
 
-## Themes
+## Themes (Both Hardware and Software)
 
-1. **Hardware** – Bring your own materials  
-2. **Software** – Bring your laptops and power banks  
-   - Blockchain & Cybersecurity  
-   - Disaster Management  
-   - Robotics & Drones  
-   - MedTech  
-   - Smart Automation  
-   - Smart Education  
-   - Open Innovation  
+- Agriculture, FoodTech & Rural Development
+- Blockchain & Cybersecurity
+- Clean & Green Technology
+- Disaster Management
+- FinTech
+- Fitness & Sports
+- Games & Toys
+- Heritage & Culture
+- MedTech / BioTech / HealthTech
+- Renewable / Sustainable Energy
+- Robotics and Drones
+- Smart Automation
+- Smart Education
+- Smart Vehicles
+- Space Technology
+- Tourism
+- Transportation & Logistics
+- Miscellaneous
 
 - **Inauguration Venue:** 1109
 - **Judges:** All faculty Members
