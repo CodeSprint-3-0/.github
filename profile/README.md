@@ -1,7 +1,7 @@
 # Codesprint 2026 – Rubrics & Terms and Conditions
 
-### Registration  **20th – 24th September 2026**
-### Hackathon Days   **26th - 27th September 2026**
+### Registration  **20th – 24th August 2026**
+### Hackathon Days   **26th - 27th August 2026**
 ### Link to Register- [Register Now](https://forms.gle/MqptNSmWNNH7LY5b6)
 ### Min Team Members - 4 & Max Team Member = 6 (1 Female Teammate is a must)
 ### WhatsApp Community - https://chat.whatsapp.com/JxJQ7nSb3NvChbstqhAjKr
