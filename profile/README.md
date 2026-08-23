@@ -107,11 +107,10 @@ Final rankings will be determined by the total score. In case of a tie, the judg
 5. *Priority - 5. UI-UX (1-10):* Quality of pitch and demonstration
 6. *Priority - 6. ML/AI Integration (1-10):* Effective implementation of machine learning or AI components
 
-## Event Leads & Core Team
+## Event Leads
 
 - **Faculty Coordinator**: Prof. Debmitra Ghosh
-- **Organizer**: Souvik Das
-- **Co-Organizer**: Sourav singh
+- **Organizer**: Souvik Das 
 
 ---
 
