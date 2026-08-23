@@ -86,7 +86,7 @@
 
 ## Terms & Regulations
 
-- **Team Size:** Max 6 members, **at least 1 female member required**  
+- **Team Size:** 4-6 members, **at least 1 female member required**  
 - **Eligibility:** Open to **JIS University** students from all departments.  
 - **Original Work:** All work must be original. **Plagiarism = Disqualification**  
 - **Problem Statement:** Choose from the provided [Click here to view](https://sih.gov.in/sih2026PS).
