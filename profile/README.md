@@ -23,8 +23,8 @@
    - Smart Education  
    - Open Innovation  
 
-**Inauguration Venue:** 1109
-**Judges:** All faculty Members
+- **Inauguration Venue:** 1109
+- **Judges:** All faculty Members
 
 ---
 
