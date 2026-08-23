@@ -23,11 +23,8 @@
    - Smart Education  
    - Open Innovation  
 
-**Venue:** TBD
-**Judges:** TBD
-
-
-**Requirements:** Bring laptops, power banks, extension cords, and hardware (if needed).
+**Inauguration Venue:** 1109
+**Judges:** All faculty Members
 
 ---
 
