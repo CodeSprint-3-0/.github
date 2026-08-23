@@ -120,7 +120,8 @@ Final rankings will be determined by the total score. In case of a tie, the judg
 |-------------------|-----------------------|----------------------------------------------|
 | Day 1: 26th Sept  | 09:40AM               | Arrival at Venue                             |
 | Day 1: 26th Sept  | 09:40AM - 10:30AM     | Arrival Check-ins                            |
-| Day 1: 26th Sept  | 10:30AM - 12:00AM     | Brief Discussion About Hackathon             |  
+| Day 1: 26th Sept  | 10:30AM - 11:00AM     | Brief Discussion About Hackathon             |  
+| Day 1: 26th Sept  | 11:30AM - 12:00AM     | Made in JIS – Roadshow                       |  
 | Day 1: 26th Sept  | 12:00PM - 12:15PM     | Exit & Room Clearance                        |  
 
 ---
