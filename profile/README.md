@@ -49,14 +49,14 @@
 ---
 ## Judging Criteria (80 Points Total)
 
-- **Presentation (1-10):** Clarity, organization, and professionalism of the written project details.
-- **UI/UX Design (1-10):** Visual appeal, user-friendliness, and overall design quality
-- **Backend Implementation (1-10):** Functionality, architecture, and efficiency of server-side code
-- **ML/AI Integration (1-10):** Effective use of machine learning or AI components (if applicable)
-- **Innovation (1-10):** Uniqueness and creativity of the solution
-- **Code Quality (1-10):** Clean, well-documented, and properly structured code
-- **Problem-Solution Fit (1-10):** How well the solution addresses the stated problem
-- **Adaptability (1-10):** How well the solution goes with the current agronomics.
+- **PPT (1-10):** Visual, content clarity, and presentation quality. *(Must follow the provided template)*
+- **UI/UX Design & Usability (1-10):** Visual appeal, user-friendliness, and frontend experience.
+- **Backend Architecture & Functionality (1-10):** Efficiency, robustness, and server-side scalability.
+- **ML/AI Integration (1-10):** Accuracy and practical impact of AI/ML models (if any).
+- **Innovation & Creativity (1-10):** Originality and uniqueness of the solution.
+- **Code Quality & Best Practices (1-10):** Cleanliness, structure, and documentation.
+- **Problem-Solution Fit (1-10):** How effectively the solution addresses the problem statement.
+- **Adaptability & Scalability (1-10):** Real-world feasibility and potential for expansion.
 
 #### *Tech stack evaluation includes backend design, MLOps/DevOps pipelines, and VCS usage.*
 ---
