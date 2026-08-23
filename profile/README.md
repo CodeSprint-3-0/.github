@@ -32,6 +32,10 @@
 - Transportation & Logistics
 - Miscellaneous
 
+---
+
+## Event Details
+
 - **Inauguration Venue:** 1109
 - **Judges:** All faculty Members
 
