@@ -114,7 +114,8 @@ Final rankings will be determined by the total score. In case of a tie, the judg
 ## Event Leads
 
 - **Faculty Coordinator**: Prof. Debmitra Ghosh
-- **Organizer**: Souvik Das 
+- **Student Coordinator**: Souvik Das 
+- **Core Team**: Kumaresh Jana, Zabed Khan, Sourav Singh, Rajdip Garai
 
 ---
 
