@@ -118,16 +118,13 @@ Final rankings will be determined by the total score. In case of a tie, the judg
 
 ---
 
-## Tentative Schedule  
+## Schedule  
 
-| Day 1             | Time                  | Activity                                     |
-|-------------------|-----------------------|----------------------------------------------|
-| Day 1: 26th August  | 09:40AM               | Arrival at Venue                             |
-| Day 1: 26th August  | 09:40AM - 10:30AM     | Arrival Check-ins                            |
-| Day 1: 26th August  | 10:30AM - 11:00AM     | Brief Discussion About Hackathon             |  
-| Day 1: 26th August  | 10:00AM - 11:30AM     | Speeches                                     |  
-| Day 1: 26th August  | 11:30AM - 12:00PM     | Made in JIS – Roadshow                       |  
-| Day 1: 26th August  | 12:00PM - 12:15PM     | Exit & Room Clearance                        |  
+| Date & Time                              | Activity                                     |
+|------------------------------------------|----------------------------------------------|
+| 26th Aug 12:00 PM - 27th Aug 6:00 PM     | Hackathon Start (Online Mode)                |  
+| 27th Aug 8:00 AM - 6:00 PM               | Submission Time (Online Mode)                |  
+  
 
 ---
 
