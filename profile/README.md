@@ -36,7 +36,7 @@
 
 ## Event Details
 
-- **Inauguration Venue:** 1109
+- **Mode:** Online
 - **Judges:** All faculty Members
 
 ---
